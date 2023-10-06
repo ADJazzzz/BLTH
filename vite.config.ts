@@ -11,9 +11,9 @@ export default defineConfig({
       userscript: {
         name: {
           // 确保能通过 GreasyFork 的语言类型检查
-          '': 'Bilibili Live Tasks Helper F',
-          en: 'Bilibili Live Tasks Helper F',
-          zh: 'Bilibili Live Tasks Helper F'
+          '': 'Bilibili Live Tasks Helper Fork',
+          en: 'Bilibili Live Tasks Helper Fork',
+          zh: 'Bilibili Live Tasks Helper Fork'
         },
         namespace: 'https://github.com/ADJazzzz',
         author: 'ADJazzzz',
