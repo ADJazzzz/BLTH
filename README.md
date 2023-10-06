@@ -4,6 +4,10 @@
 
 <h1 align="center">Bilibili Live Tasks Helper</h1>
 
+**个人自用版本，不定期更新**
+
+**原作者为 [andywang425](https://github.com/andywang425/)，原仓库地址 [https://github.com/andywang425/BLTH](https://github.com/andywang425/BLTH)**
+
 # 环境要求
 
 - 浏览器：推荐使用 Chrome, Edge, Firefox, Safari 或 Opera。
